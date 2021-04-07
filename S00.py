@@ -3,7 +3,7 @@ __author__      = "Joy Ghosh"
 __Ver__         = "V 1.0"
 __copyright__   = "Copyright 2021, SYSTEM00 SECURITY"
 #############################################[ API KEY ]
-api_key="UPmNGzp5HfQwsNY5BFCIuPLFUSPAa5E6"
+api_key="Your_API_KEY"
 ############################################
 from colorama import Fore, Back, Style
 import requests
